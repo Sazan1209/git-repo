@@ -1,0 +1,3 @@
+[submodule "seabattle"]
+	path = seabattle
+	url = git@github.com:outer00/seabattle.git
